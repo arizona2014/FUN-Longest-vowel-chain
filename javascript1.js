@@ -20,3 +20,15 @@ function solve(s){
  }
  return max;
 }
+
+Test Results:
+ Basic tests
+Test Passed: Value == 2
+Test Passed: Value == 3
+Test Passed: Value == 3
+Test Passed: Value == 1
+Test Passed: Value == 2
+Test Passed: Value == 5
+Test Passed: Value == 8
+Completed in 6ms
+You have passed all of the tests! :)
