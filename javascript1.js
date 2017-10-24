@@ -4,7 +4,7 @@ The vowel subsequences in the word codewarriors are o,e,a,io. The longest of the
 Good luck!
 
 Solution:
-
+```javascript
 function solve(s){
  var vowels = 'aeiou';
  max = 0;
@@ -20,6 +20,7 @@ function solve(s){
  }
  return max;
 }
+```
 
 Test Results:
  Basic tests
